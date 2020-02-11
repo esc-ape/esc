@@ -1,0 +1,12 @@
+{
+    "extends": "normanzb-base",
+    "env": {
+      "node": true,
+      "mocha": true,
+      "es6": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 11,
+      "sourceType": "module"
+    }
+}
